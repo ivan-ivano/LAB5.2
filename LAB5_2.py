@@ -5,12 +5,6 @@
 
 import math
 
-# X_start = -1
-# X_end = 0.9
-# dX = 0.1
-# eps = 0.000001
-
-
 X_start = float(input("X_поч: "))
 X_end = float(input("X_кін: "))
 dX = float(input("dX: "))
